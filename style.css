@@ -1,0 +1,61 @@
+* {
+    margin: 0;
+    padding: 0;
+    max-width: 100%;
+    max-height: 100%;
+    background-color: none;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: aliceblue;
+}
+
+.header-content {
+    height: 50vh;
+    background-color: yellowgreen;
+}
+
+.material-symbols-outlined {
+    font-variation-settings:
+        'FILL' 0,
+        'wght' 400,
+        'GRAD' 0,
+        'opsz' 48
+}
+
+.new {
+    position: fixed;
+    align-items: center;
+    right: 50vw;
+    top: 15%;
+    overflow: hidden;
+    color: aliceblue;
+}
+
+.img {
+    display: flex;
+    align-items: center;
+    position: relative;
+    justify-content: center;
+    margin: 1em;
+}
+
+.main-container {
+    background-color: whitesmoke;
+    text-align: center;
+    margin-top: 7%;
+}
+
+.par {
+    color: grey;
+}
+
+#btn {
+    background-color: yellowgreen;
+    margin-top: 5em;
+    height: 50px;
+    width: 200px;
+    border-radius: 50px;
+    color: aliceblue;
+}
