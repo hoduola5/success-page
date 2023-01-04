@@ -26,10 +26,9 @@ body {
 
 .new {
     position: fixed;
-    align-items: center;
-    right: 50vw;
+    align-content: center;
+    right: 45vw;
     top: 15%;
-    overflow: hidden;
     color: aliceblue;
 }
 
